@@ -1,5 +1,6 @@
 Code source : Sun Young Kim
-Locense : BSA 3 clause
+License : BSA 3 clause
+
 
 Problem Statement
 
