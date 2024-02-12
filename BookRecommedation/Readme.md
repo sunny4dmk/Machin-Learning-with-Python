@@ -21,7 +21,7 @@ Objectives
 6. Do the same for user_id. Convert it into numeric order
 7. Convert both user_id and ISBN to the ordered list i.e., from 0...n-1
 8. Re-index columns to build matrix later on
-9. Split your data into two sets (training and testing)
+9. Split data into training and testing dataset
 10. Make predictions based on user and items
 11. Use RSME to evaluate the predictions
 
