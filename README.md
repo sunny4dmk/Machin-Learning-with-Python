@@ -1,2 +1,2 @@
 # Machin-Learning-with-Python
-Repository of my Machine Learning projects in Python. 
+My Machine Learning projects in Python. 
