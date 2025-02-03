@@ -13,24 +13,25 @@ Steps to Perform:
 
 1. Initial data inspection and data cleaning:
  
-  a. Check whether the data has duplicates, missing values, irrelevant(erroneous entries) values, or outliers.
+    a. Check whether the data has duplicates, missing values, irrelevant(erroneous entries) values, or outliers.
 
 2. Depending on the findings, clean the data for further processing.
 
 3. Perform Exploratory Data Analysis and Feature Engineering:
 
-  a. Use appropriate visualizations to find out which two albums should be recommended to anyone based on the number of popular songs in an album.
+    a. Use appropriate visualizations to find out which two albums should be recommended to anyone based on the number of popular songs in an album.
   
-  b. Perform exploratory data analysis to dive deeper into different features of songs and identify the pattern.
+    b. Perform exploratory data analysis to dive deeper into different features of songs and identify the pattern.
   
-  c. Discover how a song's popularity relates to various factors and how this has changed over time.
+    c. Discover how a song's popularity relates to various factors and how this has changed over time.
   
-  d. Comment on the importance of dimensionality reduction techniques,share your ideas and explain your observations.
+    d. Comment on the importance of dimensionality reduction techniques,share your ideas and explain your observations.
 
 4. Perform Cluster Analysis:
 
-  a. Identify the right number of clusters
+    a. Identify the right number of clusters
   
-  b. Use appropriate clustering algorithm
+    b. Use appropriate clustering algorithm
   
-  c. Define each cluster based on the features
+    c. Define each cluster based on the features
+ 
