@@ -1,3 +1,7 @@
+Code source : Sun Young Kim
+
+License : BSD 3 clause
+
 Employee Turnover Analytics. Course-end Project 4 Description
 
 Project Statement:
